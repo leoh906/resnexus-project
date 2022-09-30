@@ -1,0 +1,29 @@
+{
+    "currenciesList": [
+      {
+        "currencyId": 1,
+        "currencyCode": "USD",
+        "exchangeRate": 1.0
+      },
+      {
+        "currencyId": 2,
+        "currencyCode": "PHP",
+        "exchangeRate": 43.1232
+      },
+      {
+        "currencyId": 3,
+        "currencyCode": "GBP",
+        "exchangeRate": 0.90
+      },
+      {
+        "currencyId": 4,
+        "currencyCode": "EUR",
+        "exchangeRate": 1.02
+      },
+      {
+        "currencyId": 5,
+        "currencyCode": "JPY",
+        "exchangeRate": 144.27
+      }
+    ] 
+  }
